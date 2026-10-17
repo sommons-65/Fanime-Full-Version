@@ -269,4 +269,4 @@ This repository serves as the official landing page for FANime. The software is 
 **Get the most recent version of FANime today!**
 
 ---
-**Last updated:** 2026-10-16 22:14:15 UTC
+**Last updated:** 2026-10-17 00:49:53 UTC
